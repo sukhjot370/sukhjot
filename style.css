@@ -1,10 +1,5 @@
-h1{
-      align-content: center;
-      align-items: center;
-      background-color: aqua;
-      text-align: center;
-      align-self: auto;
-      color: rgb(255, 145, 0);
+#img{
+      width: 24px;
 }
 fieldset{
       border-radius: 50px;
